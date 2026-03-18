@@ -41,3 +41,5 @@ React Native · Django · Rails · JavaScript · Python
 ## 📍 Currently
 
 Building, learning, and trying to get a bit better at this every day.
+
+Outside of this, I spend a lot of time training, experimenting with ideas, and occasionally overthinking both.
